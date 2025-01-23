@@ -4,7 +4,7 @@ import time
 from time import sleep
 
 from selenium.webdriver import Keys
-from selenium.webdriver.common.by import By
+# from selenium.webdriver.common.by import By
 
 from locators import home_locators
 from selenium.webdriver.support import expected_conditions as EC
